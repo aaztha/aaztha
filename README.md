@@ -1,4 +1,5 @@
-### Hi there 👋
+👁️👁️
+### Hi there🙋🏻‍♀️
 
 <!--
 **aaztha/aaztha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🙋🏻‍♀️
+
 I am a full-time web developer of a start-up i.e DriveSales.I am currently looking for new opportunities to work on as I have got so much time in my hand and I am ready to gain new experience.So feel free to contact me via LinkedIn or you can contact me through my mail Id:2018005582.aastha@ug.sharda.ac.in
