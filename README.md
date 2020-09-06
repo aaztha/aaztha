@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Logo](2.jpeg)
+![GitHub Logo](2.jpg)
 I am Aastha Sharma.I am a front-end web developer of a start-up i.e DriveSales.I am currently looking for new opportunities to work on as I am ready to gain new experiences.Interested in Space and research sectors.So feel free to contact me via LinkedIn or you can contact me through my mail Id:aastha000sharma@gmail.com , aastha@thedrivesales.com
