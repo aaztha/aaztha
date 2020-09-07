@@ -31,7 +31,7 @@ Interested in Space and research sectors.</br>
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DBMS-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Adobe Illustrator-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Adobe-Illustrator-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badgeTools-Adobe-Xd-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
