@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://memegenerator.net/img/instances/69251652.jpg" width="300px">)</br>
+<img src="https://memegenerator.net/img/instances/69251652.jpg" width="900px"></br>
 I am Aastha.I am a front-end web developer of a start-up i.e DriveSales.</br>
 I am currently looking for new opportunities to work on as I am ready to gain new experiences.</br>
 Interested in Space and research sectors.</br>
