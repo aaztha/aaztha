@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 I am Aastha.I am a front-end web developer of a start-up i.e DriveSales.</br>
 I am currently looking for new opportunities to work on as I am ready to gain new experiences.</br>
 Interested in Space and research sectors.</br>
-So feel free to contact me via LinkedIn or </br>
-you can contact me through my mail Id:</br>
-aastha000sharma@gmail.com , aastha@thedrivesales.com
 <!-- Actual text -->
 
-You can contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2].
+Contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2].
 
 <!-- Icons -->
 [2.2]: https://i.imgur.com/Up383tW.png (Mail icon without padding)
