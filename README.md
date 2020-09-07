@@ -27,7 +27,7 @@ aastha000sharma@gmail.com , aastha@thedrivesales.com
 You can contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://prosmartmailing.com/wp-content/uploads/2016/09/Mail-Circle-Icon-300x208.png
+[2.2]: https://prosmartmailing.com/wp-content/uploads/2016/09/Mail-Circle-Icon-300x208.png(Mail icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
