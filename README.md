@@ -27,5 +27,5 @@ Interested in Space and research sectors.</br>
 [3.2]: https://i.imgur.com/CjlwcS1.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[2]: aastha000sharma@gmail.com
+[2]: www.aastha000sharma@gmail.com
 [3]: https://www.linkedin.com/in/aastha-sharma-082168176/
