@@ -22,3 +22,14 @@ Interested in Space and research sectors.</br>
 So feel free to contact me via LinkedIn or </br>
 you can contact me through my mail Id:</br>
 aastha000sharma@gmail.com , aastha@thedrivesales.com
+<!-- Actual text -->
+
+You can contact me via [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+_
+[1]: https://www.linkedin.com/in/aastha-sharma-082168176/
