@@ -23,7 +23,7 @@ Interested in Space and research sectors.</br>
 Contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://i.imgur.com/Up383tW.png (Mail icon without padding)
+[2.2]: https://i.imgur.com/2SqWbO1.png (Mail icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
