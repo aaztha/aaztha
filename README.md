@@ -25,8 +25,8 @@ Interested in Space and research sectors.</br>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Libraries-Numpy,Tkinter,Matplotlib,Pandas,CV2,Scikitlearn-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a) </br>
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)</br>
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Web-HTML&CSS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DBMS-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
