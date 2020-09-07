@@ -21,7 +21,7 @@ I am currently looking for new opportunities to work on as I am ready to gain ne
 Interested in Space and research sectors.</br>
 
 ##### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=#7D0233)
+![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=burgundy)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=#9c0340)
 ![](https://img.shields.io/badge/Libraries-Numpy,Tkinter,Matplotlib,Pandas,CV2,Scikitlearn-informational?style=flat&logo=digitalocean&logoColor=white&color=#9c0340)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#9c0340)
