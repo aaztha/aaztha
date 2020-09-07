@@ -24,12 +24,12 @@ you can contact me through my mail Id:</br>
 aastha000sharma@gmail.com , aastha@thedrivesales.com
 <!-- Actual text -->
 
-You can contact me via [![LinkedIn][3.2]][3].
+You can contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2].
 
 <!-- Icons -->
-
+[2.2]: https://prosmartmailing.com/wp-content/uploads/2016/09/Mail-Circle-Icon-300x208.png
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-
+[2]: aastha000sharma@gmail.com
 [3]: https://www.linkedin.com/in/aastha-sharma-082168176/
