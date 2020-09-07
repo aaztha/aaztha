@@ -20,7 +20,7 @@ I am Aastha.I am a front-end web developer of a start-up i.e DriveSales.</br>
 I am currently looking for new opportunities to work on as I am ready to gain new experiences.</br>
 Interested in Space and research sectors.</br>
 <!-- Actual text -->
-### Contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2] me at: aastha000sharma@gmail.com,aastha@thedrivesales.com
+### Contact me via [![LinkedIn][3.2]][3] or [![Mail][2.2]][2] me at: aastha000sharma@gmail.com, aastha@thedrivesales.com
 
 <!-- Icons -->
 [2.2]: https://i.imgur.com/2SqWbO1.png (Mail icon without padding)
