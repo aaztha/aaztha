@@ -35,4 +35,4 @@ Interested in Space and research sectors.</br>
 
 
 Contact me via LinkedIn : https://www.linkedin.com/in/aastha-sharma-082168176/ ,or,</br>
-Mail me at: aastha000sharma@gmail.com, aastha@thedrivesales.com
+Mail me at: aastha000sharma@gmail.com
