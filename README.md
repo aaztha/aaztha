@@ -26,6 +26,7 @@ I am currently looking for new opportunities to work on as I am ready to contrib
 ![](https://img.shields.io/badge/Libraries-Numpy,Tkinter,Matplotlib,Pandas,CV2,Scikitlearn-informational?style=flat&logo=digitalocean&logoColor=white&color=burgundy)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=burgundy)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=go&logoColor=white&color=#9c0340)</br>
+![](https://img.shields.io/badge/Code-QT-informational?style=flat&logo=go&logoColor=white&color=#9c0340)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=cmake&logoColor=white&color=#9c0340) 
 ![](https://img.shields.io/badge/Web-HTML&CSS-informational?style=flat&logo=vue.js&logoColor=white&color=#9c0340)
 ![](https://img.shields.io/badge/Web-ReactJS-informational?style=flat&logo=gnu-bash&logoColor=white&color=#9c0340)
