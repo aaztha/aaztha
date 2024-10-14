@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://memegenerator.net/img/instances/69251652.jpg" width="800px"></br>
-I am Aastha, web developer.</br>
+I am Aastha, a software developer with over 3 years of experience.</br>
 I am currently looking for new opportunities to work on as I am ready to contribute to the companies where my work would have its own meaning.</br>
-Interested in Space and research sectors.</br>
+
 
 ##### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=burgundy)
