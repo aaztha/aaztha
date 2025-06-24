@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://memegenerator.net/img/instances/69251652.jpg" width="800px"></br>
+<img src="https://i.redd.it/7ihl9ardygrd1.jpeg" width="800px"></br>
 I am Aastha, a software developer with over 3 years of experience.</br>
 Currently seeking new opportunities to contribute meaningfully to projects where my skills can make a difference.</br>
 
