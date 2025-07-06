@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.redd.it/7ihl9ardygrd1.jpeg" width="500px"></br>
-I am Aastha, a software developer with over 3 years of experience.</br>
+<img src="https://i.redd.it/7ihl9ardygrd1.jpeg" width="400px"></br>
+I am Aastha, a software developer with around 3 years of experience.</br>
 Currently seeking new opportunities to contribute meaningfully to projects where my skills can make a difference.</br>
 
 
