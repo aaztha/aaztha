@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://i.redd.it/7ihl9ardygrd1.jpeg" width="400px"></br>
-I am Aastha, a software developer with around 3 years of experience.</br>
-Currently seeking new opportunities to contribute meaningfully to projects where my skills can make a difference.</br>
+I am Aastha, a software developer with around 3 years of experience,have been working with the challenging projects of the manufacturing automation , telecommunication , defense and ecommerce sector.</br>
+Currently seeking freelancing work of software development or UI designing to work on projects where my skills can make a difference.</br>
 
 
 ##### 🔧 Technologies & Tools
